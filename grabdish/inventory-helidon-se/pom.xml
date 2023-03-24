@@ -35,7 +35,7 @@
         <junit.version>4.13.1</junit.version>
         <lombok.version>1.18.2</lombok.version>
         <ojdbc.version>19.8.0.0</ojdbc.version>
-        <ocisdk.version>1.32.2</ocisdk.version>
+        <ocisdk.version>3.4.0</ocisdk.version>
     </properties>
 
     <build>
